@@ -69,3 +69,10 @@ Program ini memungkinkan interaksi dengan pengguna melalui form untuk menambah, 
 
 ### 5. Reset Form
 - Tombol **Cancel** akan menghapus data yang dimasukkan dan reset form kembali ke keadaan semula.
+
+## Dokumentasi
+
+
+https://github.com/user-attachments/assets/734d249d-3aa5-4093-9193-f5b41bb7c458
+
+
